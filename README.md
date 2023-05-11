@@ -7,7 +7,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdallah-mohamed-077976218#gh-light-mode-only)
+[![website](https://www.flaticon.com/free-icon/facebook_124010))](https://www.linkedin.com/in/abdallah-mohamed-077976218#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdallah-mohamed-077976218#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/facebook-light.svg)](https://www.facebook.com/nanoscorpiox#gh-light-mode-only)
