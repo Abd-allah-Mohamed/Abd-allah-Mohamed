@@ -2,7 +2,7 @@
 
 ##  A passionate AI developer from Egypt
 
-- 📫 How to reach me (abdallahbadawi@outlook.com)
+- 📫 How to reach me abdallahbadawi@outlook.com
 
 ### Connect with me:
 
